@@ -57,7 +57,7 @@ function App() {
 
         <NDResult result={result} />
 
-        <div className="bg-zinc-950 border border-zinc-800 rounded-3xl p-6 mt-8">
+        <div className="bg-zinc-950 border border-zinc-800 rounded-3xl p-6 mt-2">
           <div className="flex gap-4 items-start">
             <Info
               className="text-zinc-400 mt-1 shrink-0"
